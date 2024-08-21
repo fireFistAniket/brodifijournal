@@ -23,7 +23,7 @@ Follow these steps to run BrodifyJournal on your local machine:
 
 1. **Clone the Repository:**
 ```bash
-  git clone https://github.com/your-username/BrodifyJournal.git
+  git clone https://github.com/your-username/brodifyJournal.git
   cd BrodifyJournal
 ```
 
